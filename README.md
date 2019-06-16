@@ -1,4 +1,4 @@
-# Custom-Folded-Clausen-Based-Low-Pass-Filter
+# Custom Folded Clausen Based LowPass Filter
 
 ## Abstract
 
