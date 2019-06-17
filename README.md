@@ -65,3 +65,7 @@ Filter XII applied on the same standard test image:
   url = {https://github.com/digantamisra98/Custom-Folded-Clausen-Based-Low-Pass-Filter},
 }
 ```
+
+## Reach Out: 
+- [LinkedIn](https://www.linkedin.com/in/misradiganta/)<br>
+- Email: mishradiganta91@gmail.com
