@@ -16,6 +16,13 @@ Filter Design is an important procedure of Image Processing to present new digit
 
 |Filter Psuedo Name| Type of Clausen Function| Mean Value for Folded Normal Kernel (𝝁)| Standard Deviation Value for Folded Normal Kernel (𝝈)|
 |---|---|---|---|
+|Filter Y|1<sup>st</sup> Order Standard Clausen Function|0 |1| 
+|Filter X| 2ND ORDER SL-TYPE CLAUSEN FUNCTION|0 | 1|
+|Filter XI| 2ND ORDER SL-TYPE CLAUSEN FUNCTION|1 |1 |
+|Filter XII| 2ND ORDER SL-TYPE CLAUSEN FUNCTION|0.5 |1.5 |
+|Filter XIII| 2ND ORDER SL-TYPE CLAUSEN FUNCTION|0.5|2 |
+|Filter XIV |2ND ORDER SL-TYPE CLAUSEN FUNCTION |2 |1 |
+|Filter XV |2ND ORDER SL-TYPE CLAUSEN FUNCTION |0 | 0.5 |
 
 ## Results
 
