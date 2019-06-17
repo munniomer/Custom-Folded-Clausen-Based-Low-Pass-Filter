@@ -13,11 +13,11 @@ Filter Design is an important procedure of Image Processing to present new digit
 
 ## Cite this work:
 
-'''
+```
 @misc{Clausen Folded Low-Pass Filters,
   author = {Diganta Misra},
   title = {Custom Folded Clausen based Low Pass Filters },
   year = {2019},
   url = {https://github.com/digantamisra98/Custom-Folded-Clausen-Based-Low-Pass-Filter},
 }
-'''
+```
