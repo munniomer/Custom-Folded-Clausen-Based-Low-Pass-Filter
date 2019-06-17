@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="700" src="Observations/Filtered Image.png">
+  <img width="700" src="Observations/allX.png">
 </p>
 
 # Custom Folded Clausen Based LowPass Filter
