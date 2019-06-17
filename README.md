@@ -3,6 +3,7 @@
 </p>
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/digantamisra98/Custom-Folded-Clausen-Based-Low-Pass-Filter/master)
+[![DOI](https://zenodo.org/badge/192178248.svg)](https://zenodo.org/badge/latestdoi/192178248)
 
 # Custom Folded Clausen Based LowPass Filter
 
