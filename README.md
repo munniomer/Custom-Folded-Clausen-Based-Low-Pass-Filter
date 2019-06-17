@@ -48,6 +48,12 @@ Filter XII applied on the same standard test image:
 |FILTER XIV |0.3143409999998994| 4.790427799999861 |
 |FILTER XV |0.31068419999996677| 4.756758600000012 |
 
+## Code and Documentation: 
+
+> Click on the Binder Badge to open a Jupyter Instance to run the IPython Notebook provided [here](https://github.com/digantamisra98/Custom-Folded-Clausen-Based-Low-Pass-Filter/blob/master/Clausen_Folded_Filter.ipynb)
+
+
+
 ## Cite this work:
 
 ```
