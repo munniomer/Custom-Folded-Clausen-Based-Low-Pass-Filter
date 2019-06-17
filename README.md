@@ -50,9 +50,8 @@ Filter XII applied on the same standard test image:
 
 ## Code and Documentation: 
 
-> Click on the Binder Badge to open a Jupyter Instance to run the IPython Notebook provided [here](https://github.com/digantamisra98/Custom-Folded-Clausen-Based-Low-Pass-Filter/blob/master/Clausen_Folded_Filter.ipynb)
-
-
+> Click on the Binder Badge to open a Jupyter Instance to run the IPython Notebook provided [here](https://github.com/digantamisra98/Custom-Folded-Clausen-Based-Low-Pass-Filter/blob/master/Clausen_Folded_Filter.ipynb).
+> To read the paper, click [here](https://github.com/digantamisra98/Custom-Folded-Clausen-Based-Low-Pass-Filter/blob/master/CS.pdf).
 
 ## Cite this work:
 
