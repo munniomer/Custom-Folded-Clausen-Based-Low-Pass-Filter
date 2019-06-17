@@ -15,7 +15,7 @@ Filter Design is an important procedure of Image Processing to present new digit
 ## Results
 
 <div style="text-align:center"><img src ="Observations/Filtered Image.png"  width="500"/></div>
-<div style="text-align:center"><img src ="Observations/zoom.png"  width="500"/></div>
+<div style="text-align:center"><img src ="Observations/zoom.png"  width="400"/></div>
 
 ## Cite this work:
 
