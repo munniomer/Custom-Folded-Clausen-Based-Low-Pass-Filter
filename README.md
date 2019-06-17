@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="700" src="Observations/Filtered Image.png">
+</p>
+
 # Custom Folded Clausen Based LowPass Filter
 
 ## Abstract
