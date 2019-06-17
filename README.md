@@ -14,7 +14,7 @@ Filter Design is an important procedure of Image Processing to present new digit
 
 ## Filter Parameters:
 
-|Filter Psuedo Name| Type of Clausen Function| Mean Value for Folded Normal Kernel ($\mu$)| Standard Deviation Value for Folded Normal Kernel($\sigma$)|
+|Filter Psuedo Name| Type of Clausen Function| Mean Value for Folded Normal Kernel ($ \mu $)| Standard Deviation Value for Folded Normal Kernel($ \sigma $)|
 
 ## Results
 
