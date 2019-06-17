@@ -32,6 +32,9 @@ Filter X applied on a standard test image:
 Filter XII applied on the same standard test image:
 <div style="text-align:center"><img src ="Observations/zoom.png"  width="400"/></div>
 
+<em> Image Credits: National Geographic and Scikit-Image
+</em>
+
 ### Filtering Time Comparison:
 
 
