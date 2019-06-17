@@ -26,8 +26,15 @@ Filter Design is an important procedure of Image Processing to present new digit
 
 ## Results
 
+Filter X applied on a standard test image:
 <div style="text-align:center"><img src ="Observations/Filtered Image.png"  width="500"/></div>
+
+Filter XII applied on the same standard test image:
 <div style="text-align:center"><img src ="Observations/zoom.png"  width="400"/></div>
+
+### Filtering Time Comparison:
+
+
 
 ## Cite this work:
 
